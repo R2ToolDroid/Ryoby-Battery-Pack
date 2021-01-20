@@ -1,5 +1,6 @@
 # Ryoby-Battery-Pack
-R2 Batterybox with Aicraft-Connector-Hose and Ryobi 14 Volt Lipo Pack 
+R2 Batterybox with Aicraft-Connector-Hose and Ryobi 18 Volt Lipo Pack 
+Lithium ion Akku P108 Ryobi 18V 4.0Ah ONE PLUS 
 
 
 ## Put your Battery into the Battery Box
