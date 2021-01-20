@@ -12,5 +12,9 @@ R2 Batterybox with Aicraft-Connector-Hose and Ryobi 14 Volt Lipo Pack
 
 ![Motifikation](/images/lipo.motification.jpg)
 
+#correct wiring
+ Ryoby-Battery-Pack/Schematic_Lipo Battery Boxes_2021-01-20.pdf 
+ 
+![wiring](Schematic_Lipo Battery Boxes_2021-01-20.pdf) 
 
 ![Knurled-Connector](/images/aircraft-connector.jpg)
